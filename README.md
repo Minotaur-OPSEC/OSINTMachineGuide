@@ -33,21 +33,21 @@ Link : https://www.buymeacoffee.com/amazonialeaks
 
 ## Contents
 
-  - [Reflexão Necessária](#github-readme-profile-category)
-  - [Debian Download]
-  - Creation of Bootable Pendrive]
-  - [Boot Configuration]
-  - [Debian Installation]
-  - [Initial Preparation (Post Installation)]
-  - [Installing and Configuring the Tor Browser]
-  - [Virtual Machine Installation]
-  - [Install Additional Applications]
-  - [Installation/Procedure for Morphing (Linux Hardening)]
-  - [Installing and Configuring the Firewall]
-  - [Tor Service and Rotating Proxy Configuration]
-  - [Password Manager]
-  - [Support]
-  - [Sources]
+- [Reflexao Necessaria]
+- [Debian Download]
+- [Criacao de Pendrive Bootavel]
+- [Configuracao de Inicializacao]
+- [Instalacao do Debian]
+- [Preparacao Inicial pos Instalacao](#post-debian-installation)
+- [Instalacao e Configuracao do Navegador Tor](#instalacao-e-configuracao-do-navegador-tor)
+- [Instalacao da Maquina Virtual](#instalacao-da-maquina-virtual)
+- [Instalacao de Aplicacoes Adicionais](#instalacao-de-aplicacoes-adicionais)
+- [Instalacao/Procedimento para Morphing (Linux Hardening)](#instalacao/procedimento-para-morphing-linux-hardening)
+- [Instalacao e Configuracao do Firewall](#instalacao-e-configuracao-do-firewall)
+- [Configuracao do Servico Tor e Proxy Rotativo](#configuracao-do-servico-tor-e-proxy-rotativo)
+- [Gerenciador de Senhas](#gerenciador-de-senhas)
+- [Suporte](#suporte)
+- [Fontes](#fontes)
     
 Nota Importante: 
 
@@ -58,7 +58,7 @@ Para acompanhar este tutorial, presumimos que você já instalou o Debian no seu
 *A BOA NOTÍCIA É QUE, SE VOCÊ PUDER INSTALAR O DEBIAN, O RESTANTE É SIMPLES - APENAS COPIE E COLE NO SEU TERMINAL...
 
 
-# Initial Preparation (Post Debian Installation)
+# (#-post-debian-installation) Initial Preparation (Post Debian Installation)
 
 Open a terminal and execute the following command:
 
@@ -138,6 +138,8 @@ Update your package lists:
     Install tb-updater:
 
     sudo apt-get install tb-updater
+
+<h2 id="reflexao-necessaria">Seção Importante</h2>
 
 ## Configuring the Tor Browser
 
