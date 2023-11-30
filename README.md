@@ -24,8 +24,6 @@ Ao explorar nosso conteúdo, você terá acesso a um tutorial detalhado que o aj
 <Strong> If you like this Repo, Please click the </strong>:star:
 
 
-
-
 ## Ajude-me a construir nossa associação de jornalismo investigativo sem fins lucrativos, para isso, acesso o link abaixo e (me pague um café) 
 
 Link : https://www.buymeacoffee.com/amazonialeaks
@@ -33,21 +31,19 @@ Link : https://www.buymeacoffee.com/amazonialeaks
 
 ## Contents
 
-- [Reflexao Necessaria]
-- [Debian Download]
-- [Criacao de Pendrive Bootavel]
-- [Configuracao de Inicializacao]
-- [Instalacao do Debian]
-- [Preparacao Inicial pos Instalacao](#post-debian-installation) 
-- [Instalacao e Configuracao do Navegador Tor](#instalacao-e-configuracao-do-navegador-tor)
-- [Instalacao da Maquina Virtual](#instalacao-da-maquina-virtual)
-- [Instalacao de Aplicacoes Adicionais](#instalacao-de-aplicacoes-adicionais)
-- [Instalacao/Procedimento para Morphing (Linux Hardening)](#instalacao/procedimento-para-morphing-linux-hardening)
-- [Instalacao e Configuracao do Firewall](#instalacao-e-configuracao-do-firewall)
-- [Configuracao do Servico Tor e Proxy Rotativo](#configuracao-do-servico-tor-e-proxy-rotativo)
-- [Gerenciador de Senhas](#gerenciador-de-senhas)
-- [Suporte](#suporte)
-- [Fontes](#fontes)
+- [Preparacao Inicial pos Instalacao do Debian]
+- [Instalacao e Configuracao do Navegador Tor]
+- [Instalacao da Maquina Virtual]
+- [Instalacao de Aplicacoes Adicionais]
+- [Instalacao/Procedimento para Morphing (Linux Hardening)]
+- [Instalacao e Configuracao do Firewall]
+- [Configuracao do Servico Tor e Proxy Rotativo]
+- [Gerenciador de Senhas]
+- [Suporte]
+- [Fontes]
+
+- <a href="#post-debian-instalation">Preparacao Inicial pos Instalacao do Debian</a><br />
+
     
 Nota Importante: 
 
@@ -57,7 +53,7 @@ Para acompanhar este tutorial, presumimos que você já instalou o Debian no seu
 
 *A BOA NOTÍCIA É QUE, SE VOCÊ PUDER INSTALAR O DEBIAN, O RESTANTE É SIMPLES - APENAS COPIE E COLE NO SEU TERMINAL...
 
-### < name="post-debian-installation"></a>Initial Preparation (Post Debian Installation)
+### < name="#preparacao-inicial-pos-instalacao"></a>Initial Preparation (Post Debian Installation)
 
 Open a terminal and execute the following command:
 
@@ -644,6 +640,7 @@ I understand that building a HOST machine resilient to determined adversaries, e
    - Kicksecure Wiki — System Hardening Checklist — https://www.kicksecure.com/wiki/system_hardening_checklist
    - Kicksecure Wiki — Strong Linux User Account Isolation — https://www.kicksecure.com/wiki/dev/strong_linux_user_account_isolation
 
+ <h2 id="post-debian-instalation">Preparacao Inicial pos Instalacao do Debian</h2>
 
 ## :pencil: License
 
