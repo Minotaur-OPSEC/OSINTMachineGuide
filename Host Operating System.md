@@ -24,8 +24,8 @@ As an alternative, the team that developed Qubes also created Kicksecure, a syst
 
 Therefore, to achieve the required level of security for our OSINT operations, the chosen option is Linux Kicksecure. However, it is important to recognize that implementation requires an intricate setup process.
 
-The <strong>Kicksecure Project</strong> describes the system as: “Kicksecure is a free and open-source Linux distribution that aims to provide a highly secure computing environment. It has been developed from the ground up according to a formidable — and time proven — defense in-depth security design. In the default configuration, Kicksecure provides superior layered defenses of protection from many types of Malware.
+The <strong>Kicksecure Project</strong> describes the system as: <em>“Kicksecure is a free and open-source Linux distribution that aims to provide a highly secure computing environment. It has been developed from the ground up according to a formidable — and time proven — defense in-depth security design. In the default configuration, Kicksecure provides superior layered defenses of protection from many types of Malware.
 
-Kicksecure is a complete desktop operating system designed. Numerous applications come pre-installed with safe defaults which can be used immediately upon installation with minimal user input.”
+Kicksecure is a complete desktop operating system designed. Numerous applications come pre-installed with safe defaults which can be used immediately upon installation with minimal user input.”</em>
 
 For detailed information on Kicksecure, refer to their ‘About’ <a href="[https://www.w3schools.com/](https://www.kicksecure.com/wiki/About)https://www.kicksecure.com/wiki/About" target="_blank">page here.</a> 
