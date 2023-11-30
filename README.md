@@ -35,16 +35,16 @@ Link : https://www.buymeacoffee.com/amazonialeaks
 
 - <a href="#post-debian-instalation">Preparacao Inicial pos Instalacao do Debian</a><br />
 - <a href="#"></a><br />
-- <a href="#instalacao-tor">Instalacao e Configuracao do Navegador Tor</a><br />
 
-- [Instalacao da Maquina Virtual]
-- [Instalacao de Aplicacoes Adicionais]
-- [Instalacao/Procedimento para Morphing (Linux Hardening)]
-- [Instalacao e Configuracao do Firewall]
-- [Configuracao do Servico Tor e Proxy Rotativo]
-- [Gerenciador de Senhas]
-- [Suporte]
-- [Fontes]
+- <a href="#instalacao-tor">Instalacao e Configuracao do Navegador Tor</a><br />
+- - <a href="#instalacao-maquina-virtual"></a><br />[Instalacao da Maquina Virtual]
+- - <a href="#instalacao-aplicativos"></a><br />[Instalacao de Aplicacoes Adicionais]
+- - <a href="#procedimentos-morfing1"></a><br />[Instalacao/Procedimento para Morphing (Linux Hardening)]
+- - <a href="#configurando-firewall"></a><br />[Instalacao e Configuracao do Firewall]
+- - <a href="#tor-e-privoxy"></a><br />[Configuracao do Servico Tor e Proxy Rotativo]
+- - <a href="#gerenciador-de-senhas"></a><br />[Gerenciador de Senhas]
+- - <a href="#suporte"></a><br />[NOTE ON TECHNICAL ISSUES]
+- - <a href="#fontes"></a><br />[Fontes]
     
  
   <h2 id="">nome</h2>
@@ -59,7 +59,7 @@ Para acompanhar este tutorial, presumimos que você já instalou o Debian no seu
 
 *A BOA NOTÍCIA É QUE, SE VOCÊ PUDER INSTALAR O DEBIAN, O RESTANTE É SIMPLES - APENAS COPIE E COLE NO SEU TERMINAL...
 
-###  <h2 id="post-debian-instalation">Preparacao Inicial pos Instalacao do Debian</h2>
+<h2 id="post-debian-instalation">Preparacao Inicial pos Instalacao do Debian</h2>
 
 Open a terminal and execute the following command:
 
@@ -110,8 +110,8 @@ Restart the system:
 
     /sbin/reboot
 
-# Installing and Configuring the Tor Browser
-
+<h2 id="instalacao-tor">Installing and Configuring the Tor Browser</h2>
+  
 Open the terminal and type:
 
     sudo apt update
@@ -187,7 +187,7 @@ To restart Tor, go to the ‘broom’ icon in the upper right corner.
    Open the Tor Browser and confirm that you are using the obfs4 bridges to access the Onion network.
 
 
-# Virtual Machine Installation
+<h2 id="instalacao-maquina-virtual">Virtual Machine Installation</h2>
 
 Open a terminal
 
@@ -229,7 +229,7 @@ To open VirtualBox, go to Applications -> System and click on VirtualBox.
 
 
     
-# Install Additional Applications
+<h2 id="instalacao-aplicativos">Install Additional Applications</h2>
 
 Opening Synaptic:
 
@@ -257,7 +257,7 @@ Installing Packages:
    Click ‘Apply’ to start the installation process.
    <strong>Install the following applications: Zulucrypt, Bleachbit, Kleopatra and OnionShare.</strong>
 
-# Installation/Procedure for Morphing (Linux Hardening)
+<h2 id="procedimentos-morfing1">Installation/Procedure for Morphing (Linux Hardening)</h2>
 
 It is necessary to install the “curl” package.
 
@@ -375,7 +375,7 @@ Confirm that the onionized repositories are functional.
 
 <em>If it appears like this screen, it means the onionization has worked.</em>
 
-# Installing and Configuring the Firewall
+<h2 id="configurando-firewall">Installing and Configuring the Firewall</h2>
 
 To install GUFW, open the terminal and type the following command.
 
@@ -447,7 +447,7 @@ Note that now GRUB displays text related to Kicksecure and no longer to Debian. 
 Wait for the system to start, log in with your user.
 
 
-# Tor Service and Privoxy Configuration (Step by Step)
+<h2 id="tor-e-privoxy">Tor Service and Privoxy Configuration (Step by Step)</h2>
 
 Installation of Tor and Privoxy:
 
@@ -568,7 +568,7 @@ You should see an IP different from yours, meaning it’s not from your ISP.
 
 <em>Note: Some people don’t like to use a proxy in countries of the 5 or 14 Eyes, but don’t worry, you are an investigator for good and in the service of justice, so the <strong> NSA</strong>  won’t come after you unless you are threatening U.S. security (laughs). Oh, and remember that Privoxy is rotating, meaning every few minutes, you can refresh this page, and a new IP address will appear.</em>
 
-# Password Manager
+<h2 id="gerenciador-de-senhas">Password Manager</h2>
 
 ## Open KeePassXC
 
@@ -609,6 +609,7 @@ Remember, the security of your database heavily depends on the strength of the m
 [User manual link for KeePassXC. Click Here.](link_here)
 
 # NOTE ON TECHNICAL ISSUES
+  <h2 id="suporte">NOTE ON TECHNICAL ISSUES</h2>
 
 I understand that building a HOST machine resilient to determined adversaries, especially autocratic governments and criminals, can be challenging, as I mentioned at the beginning of the text. This material is advanced, and it’s completely understandable if you couldn’t follow all the steps. I recognize that what may seem easy for some people can be complex for others. So, if you encountered any difficulty at any point in the tutorials and had to interrupt the process, please don’t hesitate to contact me. I am here to assist you in overcoming any technical issues, ensuring that you successfully complete your journey. My email is: mauriciolimaosint@protonmail.com
 
@@ -616,6 +617,7 @@ I understand that building a HOST machine resilient to determined adversaries, e
 # List of Sources
 
 - Fontes:
+-   <h2 id="fontes">Fontes</h2>
 
    - National Security Agency (NSA) — Document on Deprecated Signature Algorithms in Network Security Devices — https://www.nsa.gov/portals/75/documents/what-we-do/cybersecurity/professional-resources/orn-deprecated-signature-algorithms.pdf
    - Wired — Article on Google Hackers’ Capability to Modify Source Code — https://www.wired.com/2010/03/source-code-hacks/
