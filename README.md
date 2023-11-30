@@ -57,8 +57,8 @@ Para acompanhar este tutorial, presumimos que você já instalou o Debian no seu
 
 *A BOA NOTÍCIA É QUE, SE VOCÊ PUDER INSTALAR O DEBIAN, O RESTANTE É SIMPLES - APENAS COPIE E COLE NO SEU TERMINAL...
 
-
-# (#-post-debian-installation) Initial Preparation (Post Debian Installation)
+## [↑](#-post-debian-installation) Initial Preparation (Post Debian Installation)
+## () 
 
 Open a terminal and execute the following command:
 
