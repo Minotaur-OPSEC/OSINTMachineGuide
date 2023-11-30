@@ -31,8 +31,12 @@ Link : https://www.buymeacoffee.com/amazonialeaks
 
 ## Contents
 
-- [Preparacao Inicial pos Instalacao do Debian]
-- [Instalacao e Configuracao do Navegador Tor]
+
+
+- <a href="#post-debian-instalation">Preparacao Inicial pos Instalacao do Debian</a><br />
+- <a href="#"></a><br />
+- <a href="#instalacao-tor">Instalacao e Configuracao do Navegador Tor</a><br />
+
 - [Instalacao da Maquina Virtual]
 - [Instalacao de Aplicacoes Adicionais]
 - [Instalacao/Procedimento para Morphing (Linux Hardening)]
@@ -41,10 +45,12 @@ Link : https://www.buymeacoffee.com/amazonialeaks
 - [Gerenciador de Senhas]
 - [Suporte]
 - [Fontes]
-
-- <a href="#post-debian-instalation">Preparacao Inicial pos Instalacao do Debian</a><br />
-
     
+ 
+  <h2 id="">nome</h2>
+
+
+
 Nota Importante: 
 
 Para acompanhar este tutorial, presumimos que você já instalou o Debian no seu computador (a máquina que usará para suas investigações ou a máquina/HD na qual testará este tutorial).
@@ -53,7 +59,7 @@ Para acompanhar este tutorial, presumimos que você já instalou o Debian no seu
 
 *A BOA NOTÍCIA É QUE, SE VOCÊ PUDER INSTALAR O DEBIAN, O RESTANTE É SIMPLES - APENAS COPIE E COLE NO SEU TERMINAL...
 
-### < name="#preparacao-inicial-pos-instalacao"></a>Initial Preparation (Post Debian Installation)
+###  <h2 id="post-debian-instalation">Preparacao Inicial pos Instalacao do Debian</h2>
 
 Open a terminal and execute the following command:
 
@@ -639,8 +645,6 @@ I understand that building a HOST machine resilient to determined adversaries, e
    - Kicksecure Wiki — Operating System Software and Updates — https://www.kicksecure.com/wiki/operating_system_software_and_updates
    - Kicksecure Wiki — System Hardening Checklist — https://www.kicksecure.com/wiki/system_hardening_checklist
    - Kicksecure Wiki — Strong Linux User Account Isolation — https://www.kicksecure.com/wiki/dev/strong_linux_user_account_isolation
-
- <h2 id="post-debian-instalation">Preparacao Inicial pos Instalacao do Debian</h2>
 
 ## :pencil: License
 
