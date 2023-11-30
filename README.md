@@ -13,7 +13,7 @@
 <p align="center"><i>Quer ler o artigo na integra? Please visit our <a href="https://amazonialeaks.medium.com/resilient-osint-environment-system-for-resisting-powerful-adversaries-0294a54eed7a" target="_blank">Article</a></i></p>
 <br>
 
-Explore nosso repositório dedicado a aprimorar a segurança de suas investigações jornalísticas e OSINT. Em um cenário onde adversários poderosos buscam constantemente minar investigações sensíveis, a escolha de medidas de segurança adequadas torna-se crucial. Muitos investigadores negligenciam os perigos associados ao uso de hardware vulnerável, expondo-se a riscos significativos.
+Explore nosso repositório dedicado a aprimorar a segurança de suas investigações jornalísticas e OSINT. Em um cenário onde adversários poderosos buscam constantemente minar investigações sensíveis, a escolha de medidas de segurança adequadas torna-se crucial. Muitos investigadores negligenciam os perigos associados ao uso de maquinas(computadores/noteboosk) vulneráveis, expondo-se a riscos significativos.
 
 Ao investigar oponentes com amplos recursos, conhecimento e tempo, a vulnerabilidade de sua máquina é uma ameaça iminente. A invasão pode resultar em prejuízos devastadores, desde a destruição ou alteração de sua investigação até a obtenção de dados sigilosos de fontes, colocando vidas em risco. Além disso, seu trabalho e reputação podem ser destruídos em um instante.
 
