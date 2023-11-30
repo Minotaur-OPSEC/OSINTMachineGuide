@@ -1,8 +1,8 @@
 <h1> Building a Robust (OSINT) Framework for Investigations Against Powerful Adversaries</h1>
 
-Much is said about digital security. As an investigative journalist and/or OSINT investigator, the need for vigilance is constant, given the increasing complexity of threats and ever-evolving risks.
+<H3>Much is said about digital security. As an investigative journalist and/or OSINT investigator, the need for vigilance is constant, given the increasing complexity of threats and ever-evolving risks.</H3>
 
-In this article, drawn from my cybersecurity experience, I will guide you through a step-by-step process in constructing a dedicated machine for advanced investigations.
+In this repository, drawn from my cybersecurity experience, I will guide you through a step-by-step process in constructing a dedicated machine for advanced investigations.
 
 I will address a range of potential issues that may arise during an investigation. I emphasize that, in the realm of protection in the digital world, it is imperative to understand whom we aim to safeguard ourselves from. Unfortunately, this in-depth discussion does not fit within this text, which already has a substantial focus. Fortunately, a few weeks ago, I crafted a specific article on how to protect oneself and, primarily, understand who our adversary is. The link to identify the adversary and assess the threat level is available here.
 
