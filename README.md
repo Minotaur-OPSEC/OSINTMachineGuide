@@ -45,11 +45,7 @@ Link : https://www.buymeacoffee.com/amazonialeaks
 - <a href="#fontes">Fontes</a><br />
     
  
-  <h2 id="">nome</h2>
-
-
-
-Nota Importante: 
+<h2 id="">Nota Importante: </h2>
 
 Para acompanhar este tutorial, presumimos que você já instalou o Debian no seu computador (a máquina que usará para suas investigações ou a máquina/HD na qual testará este tutorial).
 
