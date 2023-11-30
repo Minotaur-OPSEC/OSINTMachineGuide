@@ -35,14 +35,14 @@ Link : https://www.buymeacoffee.com/amazonialeaks
 
 - <a href="#post-debian-instalation">Preparacao Inicial pos Instalacao do Debian</a><br />
 - <a href="#instalacao-tor">Instalacao e Configuracao do Navegador Tor</a><br />
-- <a href="#instalacao-maquina-virtual"></a><br />[Instalacao da Maquina Virtual]
-- <a href="#instalacao-aplicativos"></a><br />[Instalacao de Aplicacoes Adicionais]
-- <a href="#procedimentos-morfing1"></a><br />[Instalacao/Procedimento para Morphing (Linux Hardening)]
-- <a href="#configurando-firewall"></a><br />[Instalacao e Configuracao do Firewall]
-- <a href="#tor-e-privoxy"></a><br />[Configuracao do Servico Tor e Proxy Rotativo]
-- <a href="#gerenciador-de-senhas"></a><br />[Gerenciador de Senhas]
-- <a href="#suporte"></a><br />[NOTE ON TECHNICAL ISSUES]
-- <a href="#fontes"></a><br />[Fontes]
+- <a href="#instalacao-maquina-virtual"> Instalacao da Maquina Virtual</a><br />
+- <a href="#instalacao-aplicativos">Instalacao de Aplicacoes Adicionais</a><br />
+- <a href="#procedimentos-morfing1">Instalacao/Procedimento para Morphing (Linux Hardening)</a><br />
+- <a href="#configurando-firewall">Instalacao e Configuracao do Firewall</a><br />
+- <a href="#tor-e-privoxy">Configuracao do Servico Tor e Proxy Rotativo</a><br />
+- <a href="#gerenciador-de-senhas">Gerenciador de Senhas</a><br />
+- <a href="#suporte">NOTE ON TECHNICAL ISSUES</a><br />
+- <a href="#fontes">Fontes</a><br />
     
  
   <h2 id="">nome</h2>
