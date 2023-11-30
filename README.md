@@ -38,7 +38,7 @@ Link : https://www.buymeacoffee.com/amazonialeaks
 - [Criacao de Pendrive Bootavel]
 - [Configuracao de Inicializacao]
 - [Instalacao do Debian]
-- [Preparacao Inicial pos Instalacao](#post-debian-installation)
+- [Preparacao Inicial pos Instalacao](#post-debian-installation) 
 - [Instalacao e Configuracao do Navegador Tor](#instalacao-e-configuracao-do-navegador-tor)
 - [Instalacao da Maquina Virtual](#instalacao-da-maquina-virtual)
 - [Instalacao de Aplicacoes Adicionais](#instalacao-de-aplicacoes-adicionais)
@@ -57,8 +57,7 @@ Para acompanhar este tutorial, presumimos que você já instalou o Debian no seu
 
 *A BOA NOTÍCIA É QUE, SE VOCÊ PUDER INSTALAR O DEBIAN, O RESTANTE É SIMPLES - APENAS COPIE E COLE NO SEU TERMINAL...
 
-## [↑](#-post-debian-installation) Initial Preparation (Post Debian Installation)
-## () 
+### < name="post-debian-installation"></a>Initial Preparation (Post Debian Installation)
 
 Open a terminal and execute the following command:
 
