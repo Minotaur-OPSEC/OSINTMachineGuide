@@ -34,8 +34,6 @@ Link : https://www.buymeacoffee.com/amazonialeaks
 
 
 - <a href="#post-debian-instalation">Preparacao Inicial pos Instalacao do Debian</a><br />
-- <a href="#"></a><br />
-
 - <a href="#instalacao-tor">Instalacao e Configuracao do Navegador Tor</a><br />
 - - <a href="#instalacao-maquina-virtual"></a><br />[Instalacao da Maquina Virtual]
 - - <a href="#instalacao-aplicativos"></a><br />[Instalacao de Aplicacoes Adicionais]
