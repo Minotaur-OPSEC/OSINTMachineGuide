@@ -563,7 +563,7 @@ You should see an IP different from yours, meaning it’s not from your ISP.
 
 ## Open KeePassXC
 
-[User manual link for KeePassXC. Click Here.](link_here)
+[User manual link for KeePassXC. Click Here.](l[ink_here](https://keepassxc.org/docs/KeePassXC_UserGuide))
 
 Launch KeePassXC on your computer.
 
