@@ -216,7 +216,7 @@ The procedure of installing the VirtualBox host software is complete.
 
 To open VirtualBox, go to Applications -> System and click on VirtualBox.
 
-![1-3SfdnhQHbWBnvznie19epw](https://github.com/AmazoniaLeaks/osintmachineguide/assets/142034974/e20b269b-abfb-46e8-a686-5b99bd276d6c)
+![1-3SfdnhQHbWBnvznie19epw](https://miro.medium.com/v2/resize:fit:720/format:webp/1*3SfdnhQHbWBnvznie19epw.png)
 
 
     
@@ -232,7 +232,7 @@ Run Synaptic with administrator privileges using the command:
 
 Exploring the Interface:
 
-![e6e624da438031256d037eb670076bc7064f5ec4](https://github.com/AmazoniaLeaks/osintmachineguide/assets/142034974/ae9d72ab-d675-4b1b-8ad2-31e805825105)
+![e6e624da438031256d037eb670076bc7064f5ec4](https://miro.medium.com/v2/resize:fit:720/format:webp/1*f5RCH9eNG8fIltcpsWf2jw.png)
 
 <em>The Synaptic interface is attractive and intuitive. Just click on ‘Search’ and enter the name of the software.</em>
 
@@ -339,7 +339,7 @@ Configure the onionized Debian repositories. Open the file “/etc/apt/sources.l
 
     sudo nano /etc/apt/sources.list.d/debian.list
 
-![1-UVgVqpkX7q6-D2_fTuubGQ](https://github.com/AmazoniaLeaks/osintmachineguide/assets/142034974/667afd4c-78b2-432c-8b71-cf638e1d999c)
+![1-UVgVqpkX7q6-D2_fTuubGQ](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*UVgVqpkX7q6-D2_fTuubGQ.png)
 
 <em>An file like this will appear; take note of the green lines. If yours doesn’t have green lines, simply go to the beginning of the line and remove the # (also known as uncommenting the line).</em>
 
@@ -362,7 +362,7 @@ Confirm that the onionized repositories are functional.
 
     sudo apt update && sudo apt full-upgrade
 
-![1-akjT7eSYgwOVysT771pC3g](https://github.com/AmazoniaLeaks/osintmachineguide/assets/142034974/a0cd7cbb-433d-46bc-b0e7-2c6011fc558e)
+![1-akjT7eSYgwOVysT771pC3g](https://miro.medium.com/v2/resize:fit:720/format:webp/1*akjT7eSYgwOVysT771pC3g.png)
 
 <em>If it appears like this screen, it means the onionization has worked.</em>
 
@@ -376,7 +376,7 @@ This command will install the firewall. Once the installation is complete, go to
 
 It will open the following window:
 
-![1-eTNCNQSUNXKA1aLpDA4f0Q](https://github.com/AmazoniaLeaks/osintmachineguide/assets/142034974/869ff5c9-dc34-41d3-88c8-a0620cfda4b7)
+![1-eTNCNQSUNXKA1aLpDA4f0Q](https://miro.medium.com/v2/resize:fit:640/format:webp/1*eTNCNQSUNXKA1aLpDA4f0Q.png)
 
 #### Enable the Profile:
 
@@ -419,7 +419,7 @@ Done,
 Your firewall is configured with the defined rules, it should look like the image below:
 
 
-![1-viMriGXe189UefamnoubmQ](https://github.com/AmazoniaLeaks/osintmachineguide/assets/142034974/8feb9bcd-0afa-4ccf-a98a-ffae3663e3a1)
+![1-viMriGXe189UefamnoubmQ](https://miro.medium.com/v2/resize:fit:640/format:webp/1*viMriGXe189UefamnoubmQ.png)
 
 Click on the X to close GUFW.
 
@@ -431,7 +431,7 @@ Click on the X to close GUFW.
 
 During the boot screen, you will notice a change; you should see something similar to the image below:
 
-![1-sWsvq2Mrn-oNwFTqkHvdHQ](https://github.com/AmazoniaLeaks/osintmachineguide/assets/142034974/54e38880-d8f1-4f70-878a-2ff57108c3f1)
+![1-sWsvq2Mrn-oNwFTqkHvdHQ](https://miro.medium.com/v2/resize:fit:720/format:webp/1*sWsvq2Mrn-oNwFTqkHvdHQ.png)
 
 Note that now GRUB displays text related to Kicksecure and no longer to Debian. Also, observe that there is an option “LIVE mode USER (For daily activities.)” Soon we will see how to use this option. For now, keep the option “Kicksecure GNU/Linux” selected.
 
@@ -448,7 +448,7 @@ Note: Since you installed the Kicksecure Package, the Tor Service was automatica
 
     sudo tor --version
 
-![1-gSVyHJ3gdLFoXeLCHHhZoA](https://github.com/AmazoniaLeaks/osintmachineguide/assets/142034974/a07b14eb-3a97-41ae-8565-52673b8222e7)
+![1-gSVyHJ3gdLFoXeLCHHhZoA](https://miro.medium.com/v2/resize:fit:720/format:webp/1*gSVyHJ3gdLFoXeLCHHhZoA.png)
 
 An interface similar to this should appear, displaying the Tor Service version and additional information.
 
@@ -478,7 +478,7 @@ Open the Privoxy configuration file in a text editor, such as Nano:
 
 Locate the line containing “forward-socks5” and remove the “#” at the beginning of the line to uncomment it.
 
-![1 kT3tcY06eRasWUZanBFHug](https://github.com/AmazoniaLeaks/osintmachineguide/assets/142034974/775e09fe-c67e-4fdd-826f-8b172a6d75d5)
+![1 kT3tcY06eRasWUZanBFHug](https://miro.medium.com/v2/resize:fit:720/format:webp/1*kT3tcY06eRasWUZanBFHug.png)
 
 <em>As shown in this image, be persistent, as it may take some time to locate this line.</em>
 
@@ -531,12 +531,12 @@ Once it completes the installation, continue in the terminal and type:
 
 A screen will appear as below:
 
-![1-7TfUS5slZD2vLUpfrzWqEA](https://github.com/AmazoniaLeaks/osintmachineguide/assets/142034974/63d7f57a-7133-460d-bdb5-389ff2ad6387)
+![1-7TfUS5slZD2vLUpfrzWqEA](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*7TfUS5slZD2vLUpfrzWqEA.png)
 
 
 Go to “Network Proxy” and click on the “gear” icon for settings.
 
-![1-OrkC8A7Z1S13_KB0JLIX8Q](https://github.com/AmazoniaLeaks/osintmachineguide/assets/142034974/767fe033-292b-4ad1-9338-869e806d1793)
+![1-OrkC8A7Z1S13_KB0JLIX8Q](https://miro.medium.com/v2/resize:fit:720/format:webp/1*OrkC8A7Z1S13_KB0JLIX8Q.png)
 
 
 - HTTP Proxy: 127.0.0.1 — Port: 8118
@@ -554,7 +554,7 @@ Open Firefox and type: dnsleaktest.com
 
 You should see an IP different from yours, meaning it’s not from your ISP.
 
-![1-D3mezMjAQOZcDXmY9lfgmg](https://github.com/AmazoniaLeaks/osintmachineguide/assets/142034974/414a44cd-c045-4ade-816b-f584ce264356)
+![1-D3mezMjAQOZcDXmY9lfgmg](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*D3mezMjAQOZcDXmY9lfgmg.png)
 
 
 <em>Note: Some people don’t like to use a proxy in countries of the 5 or 14 Eyes, but don’t worry, you are an investigator for good and in the service of justice, so the <strong> NSA</strong>  won’t come after you unless you are threatening U.S. security (laughs). Oh, and remember that Privoxy is rotating, meaning every few minutes, you can refresh this page, and a new IP address will appear.</em>
