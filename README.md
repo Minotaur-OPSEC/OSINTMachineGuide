@@ -125,17 +125,23 @@ Update your package lists:
 
     sudo apt-get install tb-updater
 
+![confirme-down-tb-updater](https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/blob/main/Images/install%20tb-updater-y.png)
+
+Click in YES
+
 <h2 id="reflexao-necessaria">Seção Importante</h2>
 
 ## Configuring the Tor Browser
 
 Once the terminal completes, it may be necessary to go to “Applications -> Internet and click Tor Browser (AnonDist)”
 
-![confirme-down-tb-updater](https://github.com/AmazoniaLeaks/osintmachineguide/assets/142034974/8796d94d-7323-4e30-a284-5ee50670a024)
+![confirme-down-tb-updater](https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/blob/main/Images/confirme-down-tb-updater.png)
 
 Click in YES
 
-![tor-version-confirm](https://github.com/AmazoniaLeaks/osintmachineguide/assets/142034974/7abc7c09-18f5-4b94-af78-50190dd9aabf)
+
+
+![tor-version-confirm](https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/blob/main/Images/tor-version-confirm.png)
 
 Click in YES
 
@@ -143,7 +149,7 @@ Now just wait……
 
 It will do all the work for you (Stay alert, it will display some windows with warnings ‘READ ALL,’ you will understand, and when it re-verifies the signature, it will print something like: ‘Good Signature.’ If it doesn’t show this, abort the installation.
 
-![good-signature](https://github.com/AmazoniaLeaks/osintmachineguide/assets/142034974/40443028-def4-4ea3-b07f-65845c411ceb)
+![good-signature](https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/blob/main/Images/good-signature.png)
 
 Ok, Good signature.. click in YES
 
@@ -159,7 +165,7 @@ Once the installation is complete, open the Tor browser
 
   Choose obfs4: Within the bridge options, choose “obfs4.”
 
-![1-iava5ILHX0Tzh68eNoKtYA](https://github.com/AmazoniaLeaks/osintmachineguide/assets/142034974/db5da558-7f44-4f1f-96bc-928e48e986da)
+![1-iava5ILHX0Tzh68eNoKtYA](https://miro.medium.com/v2/resize:fit:720/format:webp/1*iava5ILHX0Tzh68eNoKtYA.png)
 
 It should look like this screen.
 
