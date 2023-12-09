@@ -15,14 +15,24 @@ Protect the integrity of your research and the security of your sources at no co
 <Strong> If you like this Repo, Please click the </strong>:star:
 
 
-## Ajude-me a construir nossa associação de jornalismo investigativo sem fins lucrativos, para isso, acesso o link abaixo e (me pague um café) 
+## Help me build our non-profit investigative journalism association by accessing the link below and (buy me a coffee). 
 
 Link : https://www.buymeacoffee.com/amazonialeaks
 
 
-## Contents
+## Contents opcional
+LEITURA OPCIONAL (MAS RECOMENDADO):
 
+<a ref="https://keepassxc.org/docs/KeePassXC_UserGuide" target="_blank">INTRODUCTION - (About building a Robust (OSINT) Framework for Investigations Against Powerful Adversaries />
+<p align="center">Protecting People - (crucial risk aspects for the investigators)
+<p align="center">Technical Environment Issues
+<p align="center">Host Operating System
+<p align="center">Important Considerations About the Operating System
+<p align="center">Initial System Setup
+<p align="center">Creating a Bootable USB Drive (Using Ventoy)
+<p align="center">Reflection About Disks
 
+## Conteúdo do tutorial
 
 - <a href="#post-debian-instalation">Preparacao Inicial pos Instalacao do Debian</a><br />
 - <a href="#instalacao-tor">Instalacao e Configuracao do Navegador Tor</a><br />
@@ -43,6 +53,8 @@ To follow along with this tutorial, we assume that you have already installed De
 It is crucial to note that if you are not familiar with installing Debian on your own, you may not be ready to proceed with this tutorial. I'm not saying you won't be able to do it, especially because, after the installation, the subsequent steps involve simply copying from my tutorial and pasting into your terminal, making the process easier. In my understanding, the installation is the most complex part, as you can't just copy and paste like in the other steps of this article.
 
 *THE GOOD NEWS IS, IF YOU CAN INSTALL DEBIAN, THE REST IS SIMPLE - JUST COPY AND PASTE INTO YOUR TERMINAL...
+
+Clique aqui para o tutorial de como instalar o Debian na sua máquina [CLIQUE AQUI]
 
 <h2 id="post-debian-instalation">Preparacao Inicial pos Instalacao do Debian</h2>
 
