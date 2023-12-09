@@ -23,7 +23,16 @@ Link : https://www.buymeacoffee.com/amazonialeaks
 ## Contents opcional
 LEITURA OPCIONAL (MAS RECOMENDADO):
 
-<a ref="https://keepassxc.org/docs/KeePassXC_UserGuide" target="_blank">INTRODUCTION - (About building a Robust (OSINT) Framework for Investigations Against Powerful Adversaries />
+<a href="https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/blob/main/01%20-%20INTRODUCTION.md" target="_blank">INTRODUCTION - (About building a Robust (OSINT) Framework for Investigations Against Powerful Adversaries</a> 
+<a href="seu_link_aqui" target="_blank">Clique aqui para abrir em uma nova janela</a>
+<a href="seu_link_aqui" target="_blank">Clique aqui para abrir em uma nova janela</a>
+<a href="seu_link_aqui" target="_blank">Clique aqui para abrir em uma nova janela</a>
+<a href="seu_link_aqui" target="_blank">Clique aqui para abrir em uma nova janela</a>
+<a href="seu_link_aqui" target="_blank">Clique aqui para abrir em uma nova janela</a>
+<a href="seu_link_aqui" target="_blank">Clique aqui para abrir em uma nova janela</a>
+<a href="seu_link_aqui" target="_blank">Clique aqui para abrir em uma nova janela</a>
+<a href="seu_link_aqui" target="_blank">Clique aqui para abrir em uma nova janela</a>
+
 <p align="center">Protecting People - (crucial risk aspects for the investigators)
 <p align="center">Technical Environment Issues
 <p align="center">Host Operating System
