@@ -23,14 +23,14 @@ Link : https://www.buymeacoffee.com/amazonialeaks
 ## Contents opcional
 LEITURA OPCIONAL (MAS RECOMENDADO):
 
-<a href="https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/blob/main/01%20-%20INTRODUCTION.md#-building-a-robust-osint-framework-for-investigations-against-powerful-adversaries" target="_blank">INTRODUCTION - (About building a Robust (OSINT) Framework for Investigations Against Powerful Adversaries</a> 
-<a href="https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/blob/main/02%20-%20Protecting%20People.md#protecting-people" target="_blank">Protecting People - (crucial risk aspects for the investigators)</a>
-<a href="seu_link_aqui" target="_blank">Technical Environment Issues</a>
-<a href="seu_link_aqui" target="_blank">Host Operating System</a>
-<a href="seu_link_aqui" target="_blank">Important Considerations About the Operating System</a>
-<a href="seu_link_aqui" target="_blank">Initial System Setup</a>
-<a href="seu_link_aqui" target="_blank">Creating a Bootable USB Drive (Using Ventoy)</a>
-<a href="seu_link_aqui" target="_blank">Reflection About Disks</a>
+<a href="https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/blob/main/01%20-%20INTRODUCTION.md#-building-a-robust-osint-framework-for-investigations-against-powerful-adversaries" target="_blank">INTRODUCTION - (About building a Robust (OSINT) Framework for Investigations Against Powerful Adversaries</a> <br>
+<a href="https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/blob/main/02%20-%20Protecting%20People.md#protecting-people" target="_blank">Protecting People - (crucial risk aspects for the investigators)</a><br>
+<a href="https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/blob/main/03%20-%20Technical%20Environment%20Issues.md#technical-environment-issues" target="_blank">Technical Environment Issues</a><br>
+<a href="https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/blob/main/04%20-%20Host%20Operating%20System.md#host-operating-system" target="_blank">Host Operating System</a><br>
+<a href="https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/blob/main/05%20-%20About%20Operating%20System.md#important-considerations-about-the-operating-system" target="_blank">Important Considerations About the Operating System</a><br>
+<a href="https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/blob/main/06%20-%20Initial%20System%20Setup.md#initial-system-setup" target="_blank">Initial System Setup</a><br>
+<a href="https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/blob/main/07%20-%20Creating%20a%20Bootable%20USB.md#creating-a-bootable-usb-drive-using-ventoy" target="_blank">Creating a Bootable USB Drive (Using Ventoy)</a><br>
+<a href="https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/blob/main/08%20-%20Reflection%20About%20Disks.md#required-reflection" target="_blank">Reflection About Disks</a><br>
 
 <a href="seu_link_aqui" target="_blank">Clique aqui para abrir em uma nova janela</a>
 
