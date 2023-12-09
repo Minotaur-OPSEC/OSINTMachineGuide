@@ -20,29 +20,21 @@ Protect the integrity of your research and the security of your sources at no co
 Link : https://www.buymeacoffee.com/amazonialeaks
 
 
-## Contents opcional
-LEITURA OPCIONAL (MAS RECOMENDADO):
+## opcional Contents
+OPTIONAL READING (BUT RECOMMENDED):
+<br><br>The 8 items below are not part of the tutorial but are fundamental concepts that need to be understood before proceeding to the tutorial content.
 
-<a href="https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/blob/main/01%20-%20INTRODUCTION.md#-building-a-robust-osint-framework-for-investigations-against-powerful-adversaries" target="_blank">INTRODUCTION - (About building a Robust (OSINT) Framework for Investigations Against Powerful Adversaries</a> <br>
-<a href="https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/blob/main/02%20-%20Protecting%20People.md#protecting-people" target="_blank">Protecting People - (crucial risk aspects for the investigators)</a><br>
-<a href="https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/blob/main/03%20-%20Technical%20Environment%20Issues.md#technical-environment-issues" target="_blank">Technical Environment Issues</a><br>
-<a href="https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/blob/main/04%20-%20Host%20Operating%20System.md#host-operating-system" target="_blank">Host Operating System</a><br>
-<a href="https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/blob/main/05%20-%20About%20Operating%20System.md#important-considerations-about-the-operating-system" target="_blank">Important Considerations About the Operating System</a><br>
-<a href="https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/blob/main/06%20-%20Initial%20System%20Setup.md#initial-system-setup" target="_blank">Initial System Setup</a><br>
-<a href="https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/blob/main/07%20-%20Creating%20a%20Bootable%20USB.md#creating-a-bootable-usb-drive-using-ventoy" target="_blank">Creating a Bootable USB Drive (Using Ventoy)</a><br>
-<a href="https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/blob/main/08%20-%20Reflection%20About%20Disks.md#required-reflection" target="_blank">Reflection About Disks</a><br>
+* <a href="https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/blob/main/01%20-%20INTRODUCTION.md#-building-a-robust-osint-framework-for-investigations-against-powerful-adversaries" target="_blank">1. INTRODUCTION - (About building a Robust (OSINT) Framework for Investigations Against Powerful Adversaries</a> <br>
+* <a href="https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/blob/main/02%20-%20Protecting%20People.md#protecting-people" target="_blank">2. Protecting People - (crucial risk aspects for the investigators)</a><br>
+* <a href="https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/blob/main/03%20-%20Technical%20Environment%20Issues.md#technical-environment-issues" target="_blank">3. Technical Environment Issues</a><br>
+* <a href="https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/blob/main/04%20-%20Host%20Operating%20System.md#host-operating-system" target="_blank">4. Host Operating System</a><br>
+* <a href="https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/blob/main/05%20-%20About%20Operating%20System.md#important-considerations-about-the-operating-system" target="_blank">5. Important Considerations About the Operating System</a><br>
+* <a href="https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/blob/main/06%20-%20Initial%20System%20Setup.md#initial-system-setup" target="_blank">6. Initial System Setup</a><br>
+* <a href="https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/blob/main/07%20-%20Creating%20a%20Bootable%20USB.md#creating-a-bootable-usb-drive-using-ventoy" target="_blank">7. Creating a Bootable USB Drive (Using Ventoy)</a><br>
+* <a href="https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/blob/main/08%20-%20Reflection%20About%20Disks.md#required-reflection" target="_blank">8. Reflection About Disks</a><br>
 
-<a href="seu_link_aqui" target="_blank">Clique aqui para abrir em uma nova janela</a>
 
-<p align="center">
-<p align="center">
-<p align="center">
-<p align="center">
-<p align="center">
-<p align="center">
-<p align="center">
-
-## Conteúdo do tutorial
+## Tutorial Content
 
 - <a href="#post-debian-instalation">Preparacao Inicial pos Instalacao do Debian</a><br />
 - <a href="#instalacao-tor">Instalacao e Configuracao do Navegador Tor</a><br />
@@ -64,7 +56,6 @@ It is crucial to note that if you are not familiar with installing Debian on you
 
 *THE GOOD NEWS IS, IF YOU CAN INSTALL DEBIAN, THE REST IS SIMPLE - JUST COPY AND PASTE INTO YOUR TERMINAL...
 
-Clique aqui para o tutorial de como instalar o Debian na sua máquina [CLIQUE AQUI]
 
 <h2 id="post-debian-instalation">Preparacao Inicial pos Instalacao do Debian</h2>
 
