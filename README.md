@@ -139,7 +139,7 @@ Update your package lists:
 
 ![confirme-down-tb-updater](https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/blob/main/Images/install%20tb-updater-y.png)
 
-Click in YES
+Choose YES
 
 <h2 id="reflexao-necessaria">Seção Importante</h2>
 
@@ -149,13 +149,13 @@ Once the terminal completes, it may be necessary to go to “Applications -> Int
 
 ![confirme-down-tb-updater](https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/blob/main/Images/confirme-down-tb-updater.png)
 
-Click in YES
+Choose YES
 
 
 
 ![tor-version-confirm](https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/blob/main/Images/tor-version-confirm.png)
 
-Click in YES
+Choose YES
 
 Now just wait……
 
@@ -163,19 +163,15 @@ It will do all the work for you (Stay alert, it will display some windows with w
 
 ![good-signature](https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/blob/main/Images/good-signature.png)
 
-Ok, Good signature.. click in YES
+Ok, Good signature.. Choose YES
 
 Once the installation is complete, open the Tor browser
 
-  Open the Tor Browser: Launch the Tor Browser on your device.
-  
-  Access settings: In the upper right corner, click on the icon to open the menu and select “Settings” or “Preferences.”
-
-  Select “Connection”: Within the settings, you will see the available configuration options.
-
-  Bridge Configuration: Go to the “Select a Built-In Bridge…” button and click on it.
-
-  Choose obfs4: Within the bridge options, choose “obfs4.”
+* Open the Tor Browser: Launch the Tor Browser on your device.
+*   Access settings: In the upper right corner, click on the icon to open the menu and select “Settings” or “Preferences.”
+* Select “Connection”: Within the settings, you will see the available configuration options.
+* Bridge Configuration: Go to the “Select a Built-In Bridge…” button and click on it.
+* Choose obfs4: Within the bridge options, choose “obfs4.”
 
 ![1-iava5ILHX0Tzh68eNoKtYA](https://miro.medium.com/v2/resize:fit:720/format:webp/1*iava5ILHX0Tzh68eNoKtYA.png)
 
@@ -226,7 +222,7 @@ Done.
 
 The procedure of installing the VirtualBox host software is complete.
 
-To open VirtualBox, go to Applications -> System and click on VirtualBox.
+> To open VirtualBox, go to Applications -> System and click on VirtualBox.
 
 ![1-3SfdnhQHbWBnvznie19epw](https://miro.medium.com/v2/resize:fit:720/format:webp/1*3SfdnhQHbWBnvznie19epw.png)
 
@@ -294,9 +290,9 @@ Add the Kicksecure APT Repository.
 
 Choose Option A; there are three options as listed below, and we will choose Option A as it is the most secure.
 
-A: Onion Repository
-B: Clearnet Repository via Tor
-C: Clearnet Repository
+A: Onion Repository<br>
+B: Clearnet Repository via Tor<br>
+C: Clearnet Repository<br>
 
 Option A: Add the Kicksecure Onion Repository.
 
@@ -310,13 +306,13 @@ Next, add the Kicksecure APT Repository to the default Kicksecure, using the sta
 
 Done.
 
-Install the Kicksecure Package
+## Install the Kicksecure Package
 
 Choose a Kicksecure package.
 
-<strong>CLI Version</strong>: Exclusive command-line interface (CLI) version. This version does not modify the graphical environment of the system. It provides kernel enhancement, increased entropy, and other security features."
+> <strong>CLI Version</strong>: Exclusive command-line interface (CLI) version. This version does not modify the graphical environment of the system. It provides kernel enhancement, increased entropy, and other security features."
 
-<strong>GUI Version</strong>: Similar to the CLI version, but installs the Xfce graphical environment and default applications. Useful if Debian was installed without a graphical environment, and you want the Kicksecure graphical environment (Xfce). This is the one we will choose!!"
+> <strong>GUI Version</strong>: Similar to the CLI version, but installs the Xfce graphical environment and default applications. Useful if Debian was installed without a graphical environment, and you want the Kicksecure graphical environment (Xfce). This is the one we will choose!!"
 
 For host operating systems: kicksecure-xfce-host
 
@@ -616,6 +612,10 @@ Remember, the security of your database heavily depends on the strength of the m
   <h2 id="suporte">NOTE ON TECHNICAL ISSUES</h2>
 
 I understand that building a HOST machine resilient to determined adversaries, especially autocratic governments and criminals, can be challenging, as I mentioned at the beginning of the text. This material is advanced, and it’s completely understandable if you couldn’t follow all the steps. I recognize that what may seem easy for some people can be complex for others. So, if you encountered any difficulty at any point in the tutorials and had to interrupt the process, please don’t hesitate to contact me. I am here to assist you in overcoming any technical issues, ensuring that you successfully complete your journey. My email is: mauriciolimaosint@protonmail.com
+<br><br>
+You can also contribute! Explore our Open Issues 👀 and feel free to open a new issue. We look forward to receiving your suggestions, ideas, and contributions to make our repository even better. Together, we can build a stronger and more collaborative community. Join us!
+
+
 
 
 # List of Sources
