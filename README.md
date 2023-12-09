@@ -23,7 +23,7 @@ Link : https://www.buymeacoffee.com/amazonialeaks
 ## Contents opcional
 LEITURA OPCIONAL (MAS RECOMENDADO):
 
-<a href="https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/blob/main/01%20-%20INTRODUCTION.md" target="_blank">INTRODUCTION - (About building a Robust (OSINT) Framework for Investigations Against Powerful Adversaries</a> 
+<a href="https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/blob/13ca2e6d1122831b544cc42453845d4b7ee182ac/01%20-%20INTRODUCTION.md" target="_blank">INTRODUCTION - (About building a Robust (OSINT) Framework for Investigations Against Powerful Adversaries</a> 
 <a href="seu_link_aqui" target="_blank">Clique aqui para abrir em uma nova janela</a>
 <a href="seu_link_aqui" target="_blank">Clique aqui para abrir em uma nova janela</a>
 <a href="seu_link_aqui" target="_blank">Clique aqui para abrir em uma nova janela</a>
