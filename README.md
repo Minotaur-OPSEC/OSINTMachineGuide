@@ -613,7 +613,7 @@ Remember, the security of your database heavily depends on the strength of the m
 
 I understand that building a HOST machine resilient to determined adversaries, especially autocratic governments and criminals, can be challenging, as I mentioned at the beginning of the text. This material is advanced, and it’s completely understandable if you couldn’t follow all the steps. I recognize that what may seem easy for some people can be complex for others. So, if you encountered any difficulty at any point in the tutorials and had to interrupt the process, please don’t hesitate to contact me. I am here to assist you in overcoming any technical issues, ensuring that you successfully complete your journey. My email is: mauriciolimaosint@protonmail.com
 <br><br>
-You can also contribute! Explore our Open Issues 👀 and feel free to open a new issue. We look forward to receiving your suggestions, ideas, and contributions to make our repository even better. Together, we can build a stronger and more collaborative community. Join us!
+You can also contribute! Open a new issue. We look forward to receiving your suggestions, ideas, and contributions to make our repository even better. Together, we can build a stronger and more collaborative community. Join us!
 
 
 
