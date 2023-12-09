@@ -54,7 +54,7 @@ To follow along with this tutorial, we assume that you have already installed De
 
 It is crucial to note that if you are not familiar with installing Debian on your own, you may not be ready to proceed with this tutorial. I'm not saying you won't be able to do it, especially because, after the installation, the subsequent steps involve simply copying from my tutorial and pasting into your terminal, making the process easier. In my understanding, the installation is the most complex part, as you can't just copy and paste like in the other steps of this article.
 
-<p><span style="background-color: yellow;">THE GOOD NEWS IS, IF YOU CAN INSTALL DEBIAN, THE REST IS SIMPLE - JUST COPY AND PASTE INTO YOUR TERMINAL...</span></p>
+<p><span style="background-color: red;">THE GOOD NEWS IS, IF YOU CAN INSTALL DEBIAN, THE REST IS SIMPLE - JUST COPY AND PASTE INTO YOUR TERMINAL...</span></p>
 
 
 <h2 id="post-debian-instalation">Initial Preparation After Debian Installation</h2>
