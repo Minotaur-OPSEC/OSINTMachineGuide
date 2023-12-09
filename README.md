@@ -1,16 +1,16 @@
 <h1 align="center">OSINT MACHINE GUIDE</h1>
-<p align="center"><i>Guia passo a passo para a construção de uma máquina personalizada para atividades de OSINT. O Pacote Básico inclui um processo sólido de fortalecimento do sistema LINUX, configuração do navegador Tor, instalação de firewall, configuração de proxy rotativo e medidas avançadas de prevenção de ataques.
+<p align="center"><i>Step-by-step guide to building a custom machine for OSINT activities. The Basic Package includes a robust LINUX system strengthening process, Tor browser setup, firewall installation, rotating proxy configuration, and advanced attack prevention measures.
 </i></p>
-<p align="center"><i>Quer ler o artigo na integra? Please visit our <a href="https://amazonialeaks.medium.com/resilient-osint-environment-system-for-resisting-powerful-adversaries-0294a54eed7a" target="_blank">Article</a></i></p>
+<p align="center"><i>Do you want to read the article in full?? Please visit our <a href="https://amazonialeaks.medium.com/resilient-osint-environment-system-for-resisting-powerful-adversaries-0294a54eed7a" target="_blank">Article</a></i></p>
 <br>
 
-Explore nosso repositório dedicado a aprimorar a segurança de suas investigações jornalísticas e OSINT. Em um cenário onde adversários poderosos buscam constantemente minar investigações sensíveis, a escolha de medidas de segurança adequadas torna-se crucial. Muitos investigadores negligenciam os perigos associados ao uso de maquinas(computadores/noteboosk) vulneráveis, expondo-se a riscos significativos.
+Welcome to our repository dedicated to enhancing the security of your journalistic investigations and open-source intelligence (OSINT) sources. In a scenario where powerful adversaries are constantly undermining our investigations, the implementation of appropriate security measures becomes crucial. Many investigators overlook the dangers associated with the use of vulnerable machines (computers/notebooks), exposing themselves to significant risks.
 
-Ao investigar oponentes com amplos recursos, conhecimento e tempo, a vulnerabilidade de sua máquina é uma ameaça iminente. A invasão pode resultar em prejuízos devastadores, desde a destruição ou alteração de sua investigação até a obtenção de dados sigilosos de fontes, colocando vidas em risco. Além disso, seu trabalho e reputação podem ser destruídos em um instante.
+When investigating opponents with extensive resources, vast knowledge, and unlimited time, the vulnerability of your machine is an imminent threat. Invasion can result in devastating losses, from the destruction or alteration of your research to obtaining confidential data from sources, putting lives at risk. Additionally, your work and reputation can be destroyed in an instant.
 
-Neste repositório, fornecemos não apenas uma abordagem básica de segurança digital, mas um guia abrangente que inclui medidas robustas de proteção. Evitamos o uso de máquinas vulneráveis, implementando técnicas avançadas de fortalecimento do sistema, configuração de firewalls e a instalação de proxies rotativos para prevenir ataques.
+In this repository, you will also find a basic security approach for your team. We then delve into digital security with a comprehensive guide that includes enhanced protection measures. We avoid the use of vulnerable machines by implementing advanced system strengthening techniques, configuring firewalls, installing rotating proxies, and system hardening to prevent major attacks.
 
-Ao explorar nosso conteúdo, você terá acesso a um tutorial detalhado que o ajudará a implementar essas medidas de segurança em suas investigações. Proteja a integridade de suas pesquisas e a segurança de suas fontes sem custo algum. Não se arrisque com soluções padrão; escolha a segurança incomparável que oferecemos. Mantenha a confidencialidade de suas investigações com nosso guia passo-a-passo e expertise em segurança digital.
+Protect the integrity of your research and the security of your sources at no cost. Don't risk it with standard solutions; choose the unparalleled security we offer. Maintain the confidentiality of your investigations with our step-by-step guide and expertise in digital security.
 
 <Strong> If you like this Repo, Please click the </strong>:star:
 
@@ -36,13 +36,13 @@ Link : https://www.buymeacoffee.com/amazonialeaks
 - <a href="#fontes">Fontes</a><br />
     
  
-<h2 id="">Nota Importante: </h2>
+<h2 id="">Important Note: </h2>
 
-Para acompanhar este tutorial, presumimos que você já instalou o Debian no seu computador (a máquina que usará para suas investigações ou a máquina/HD na qual testará este tutorial).
+To follow along with this tutorial, we assume that you have already installed Debian on your computer (the machine you will use for your investigations or the machine/HD where you will test this tutorial).
 
-É crucial notar que, se você não está familiarizado com a instalação do Debian por conta própria, talvez não esteja pronto para seguir este tutorial. Não estou dizendo que você não será capaz de realizá-lo, especialmente porque, após a instalação, as etapas subsequentes envolvem simplesmente copiar do meu tutorial e colar no seu terminal, facilitando o processo. Em minha compreensão, a instalação é a parte mais complexa, já que não é possível apenas copiar e colar como nas outras etapas deste artigo.
+It is crucial to note that if you are not familiar with installing Debian on your own, you may not be ready to proceed with this tutorial. I'm not saying you won't be able to do it, especially because, after the installation, the subsequent steps involve simply copying from my tutorial and pasting into your terminal, making the process easier. In my understanding, the installation is the most complex part, as you can't just copy and paste like in the other steps of this article.
 
-*A BOA NOTÍCIA É QUE, SE VOCÊ PUDER INSTALAR O DEBIAN, O RESTANTE É SIMPLES - APENAS COPIE E COLE NO SEU TERMINAL...
+*THE GOOD NEWS IS, IF YOU CAN INSTALL DEBIAN, THE REST IS SIMPLE - JUST COPY AND PASTE INTO YOUR TERMINAL...
 
 <h2 id="post-debian-instalation">Preparacao Inicial pos Instalacao do Debian</h2>
 
