@@ -33,9 +33,9 @@ OPTIONAL READING (BUT RECOMMENDED):
 * <a href="https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/blob/main/07%20-%20Creating%20a%20Bootable%20USB.md#creating-a-bootable-usb-drive-using-ventoy" target="_blank">7. Creating a Bootable USB Drive (Using Ventoy)</a><br>
 * <a href="https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/blob/main/08%20-%20Reflection%20About%20Disks.md#required-reflection" target="_blank">8. Reflection About Disks</a><br>
 
+<br><br>From now on, you will find the tutorial content. Good luck!
 
 ## Tutorial Content
-
 - <a href="#post-debian-instalation">Preparacao Inicial pos Instalacao do Debian</a><br />
 - <a href="#instalacao-tor">Instalacao e Configuracao do Navegador Tor</a><br />
 - <a href="#instalacao-maquina-virtual"> Instalacao da Maquina Virtual</a><br />
@@ -54,10 +54,10 @@ To follow along with this tutorial, we assume that you have already installed De
 
 It is crucial to note that if you are not familiar with installing Debian on your own, you may not be ready to proceed with this tutorial. I'm not saying you won't be able to do it, especially because, after the installation, the subsequent steps involve simply copying from my tutorial and pasting into your terminal, making the process easier. In my understanding, the installation is the most complex part, as you can't just copy and paste like in the other steps of this article.
 
-*THE GOOD NEWS IS, IF YOU CAN INSTALL DEBIAN, THE REST IS SIMPLE - JUST COPY AND PASTE INTO YOUR TERMINAL...
+THE GOOD NEWS IS, IF YOU CAN INSTALL DEBIAN, THE REST IS SIMPLE - JUST COPY AND PASTE INTO YOUR TERMINAL...
 
 
-<h2 id="post-debian-instalation">Preparacao Inicial pos Instalacao do Debian</h2>
+<h2 id="post-debian-instalation">Initial Preparation After Debian Installation</h2>
 
 Open a terminal and execute the following command:
 
