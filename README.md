@@ -36,16 +36,16 @@ OPTIONAL READING (BUT RECOMMENDED):
 <br><br>From now on, you will find the tutorial content. Good luck!
 
 ## Tutorial Content
-- <a href="#post-debian-instalation">Preparacao Inicial pos Instalacao do Debian</a><br />
-- <a href="#instalacao-tor">Instalacao e Configuracao do Navegador Tor</a><br />
-- <a href="#instalacao-maquina-virtual"> Instalacao da Maquina Virtual</a><br />
-- <a href="#instalacao-aplicativos">Instalacao de Aplicacoes Adicionais</a><br />
-- <a href="#procedimentos-morfing1">Instalacao/Procedimento para Morphing (Linux Hardening)</a><br />
-- <a href="#configurando-firewall">Instalacao e Configuracao do Firewall</a><br />
-- <a href="#tor-e-privoxy">Configuracao do Servico Tor e Proxy Rotativo</a><br />
-- <a href="#gerenciador-de-senhas">Gerenciador de Senhas</a><br />
+- <a href="#post-debian-instalation">Initial Preparation After Debian Installation</a><br />
+- <a href="#instalacao-tor">Tor Browser Installation and Configuration</a><br />
+- <a href="#instalacao-maquina-virtual"> Virtual Machine Installation</a><br />
+- <a href="#instalacao-aplicativos">Installation of Additional Applications</a><br />
+- <a href="#procedimentos-morfing1">Morphing Installation/Procedure (Linux Hardening)</a><br />
+- <a href="#configurando-firewall">Firewall Installation and Configuration</a><br />
+- <a href="#tor-e-privoxy">Tor Service and Rotating Proxy Configuration</a><br />
+- <a href="#gerenciador-de-senhas">Password Manager</a><br />
 - <a href="#suporte">NOTE ON TECHNICAL ISSUES</a><br />
-- <a href="#fontes">Fontes</a><br />
+- <a href="#fontes">Sources</a><br />
     
  
 <h2 id="">Important Note: </h2>
