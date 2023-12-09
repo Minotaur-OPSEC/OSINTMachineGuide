@@ -24,23 +24,23 @@ Link : https://www.buymeacoffee.com/amazonialeaks
 LEITURA OPCIONAL (MAS RECOMENDADO):
 
 <a href="https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/blob/main/01%20-%20INTRODUCTION.md#-building-a-robust-osint-framework-for-investigations-against-powerful-adversaries" target="_blank">INTRODUCTION - (About building a Robust (OSINT) Framework for Investigations Against Powerful Adversaries</a> 
+<a href="https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/blob/main/02%20-%20Protecting%20People.md#protecting-people" target="_blank">Protecting People - (crucial risk aspects for the investigators)</a>
+<a href="seu_link_aqui" target="_blank">Technical Environment Issues</a>
+<a href="seu_link_aqui" target="_blank">Host Operating System</a>
+<a href="seu_link_aqui" target="_blank">Important Considerations About the Operating System</a>
+<a href="seu_link_aqui" target="_blank">Initial System Setup</a>
+<a href="seu_link_aqui" target="_blank">Creating a Bootable USB Drive (Using Ventoy)</a>
+<a href="seu_link_aqui" target="_blank">Reflection About Disks</a>
 
 <a href="seu_link_aqui" target="_blank">Clique aqui para abrir em uma nova janela</a>
-<a href="seu_link_aqui" target="_blank">Clique aqui para abrir em uma nova janela</a>
-<a href="seu_link_aqui" target="_blank">Clique aqui para abrir em uma nova janela</a>
-<a href="seu_link_aqui" target="_blank">Clique aqui para abrir em uma nova janela</a>
-<a href="seu_link_aqui" target="_blank">Clique aqui para abrir em uma nova janela</a>
-<a href="seu_link_aqui" target="_blank">Clique aqui para abrir em uma nova janela</a>
-<a href="seu_link_aqui" target="_blank">Clique aqui para abrir em uma nova janela</a>
-<a href="seu_link_aqui" target="_blank">Clique aqui para abrir em uma nova janela</a>
 
-<p align="center">Protecting People - (crucial risk aspects for the investigators)
-<p align="center">Technical Environment Issues
-<p align="center">Host Operating System
-<p align="center">Important Considerations About the Operating System
-<p align="center">Initial System Setup
-<p align="center">Creating a Bootable USB Drive (Using Ventoy)
-<p align="center">Reflection About Disks
+<p align="center">
+<p align="center">
+<p align="center">
+<p align="center">
+<p align="center">
+<p align="center">
+<p align="center">
 
 ## Conteúdo do tutorial
 
