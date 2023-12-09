@@ -53,10 +53,9 @@ OPTIONAL READING (BUT RECOMMENDED):
 To follow along with this tutorial, we assume that you have already installed Debian on your computer (the machine you will use for your investigations or the machine/HD where you will test this tutorial).
 
 It is crucial to note that if you are not familiar with installing Debian on your own, you may not be ready to proceed with this tutorial. I'm not saying you won't be able to do it, especially because, after the installation, the subsequent steps involve simply copying from my tutorial and pasting into your terminal, making the process easier. In my understanding, the installation is the most complex part, as you can't just copy and paste like in the other steps of this article.
-
-<p><span style="background-color: red;">THE GOOD NEWS IS, IF YOU CAN INSTALL DEBIAN, THE REST IS SIMPLE - JUST COPY AND PASTE INTO YOUR TERMINAL...</span></p>
-
-
+<br><br>
+> THE GOOD NEWS IS, IF YOU CAN INSTALL DEBIAN, THE REST IS SIMPLE - JUST COPY AND PASTE INTO YOUR TERMINAL...
+<br><br>
 <h2 id="post-debian-instalation">Initial Preparation After Debian Installation</h2>
 
 Open a terminal and execute the following command:
