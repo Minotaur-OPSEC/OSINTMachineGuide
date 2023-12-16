@@ -1,3 +1,4 @@
+If you like this Repo, Please click the ⭐<br><br>
 <h1 align="center">OSINT MACHINE GUIDE</h1>
 <p align="center"><i>Step-by-step guide to building a custom machine for OSINT activities. The Basic Package includes a robust LINUX system strengthening process, Tor browser setup, firewall installation, rotating proxy configuration, and advanced attack prevention measures.
 </i></p>
