@@ -335,10 +335,12 @@ The use of the --no-install-recommends parameter with the apt command is, in mos
 
     sudo apt install --no-install-recommends kicksecure-xfce-host
 
+Wait for it to complete.
+
 Done.
 
-You can follow the Kicksecure installation tutorial within Debian directly from the Kicksecure website by clicking here.
-Post-Installation
+
+## Post-Installation
 
 Move the original file “/etc/apt/sources.list” to a temporary location (or delete it) as it will be replaced by “/etc/apt/sources.list.d/debian.list” from Kicksecure:
 
