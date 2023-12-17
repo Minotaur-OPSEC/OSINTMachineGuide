@@ -618,8 +618,9 @@ I understand that building a HOST machine resilient to determined adversaries, e
 <br><br>
 You can also contribute! Open a new issue. We look forward to receiving your suggestions, ideas, and contributions to make our repository even better. Together, we can build a stronger and more collaborative community. Join us!
 
+Issues: Feel free to open a new issue with details or suggestions about your problems. <a href="https://github.com/AmazoniaLeaksOficial/OPSEC/issues" target="_blank">Issues Section</a> of the repository. 
 
-
+**Contributions**: This repository is a collaborative effort, and contributions are welcome. If you have additional knowledge or suggestions, feel free to submit a <a href="https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/pulls" target="_blank">pull request</a>.
 
 # List of Sources
 
