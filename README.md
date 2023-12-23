@@ -4,7 +4,7 @@ If you like this Repo, Please click the ⭐<br><br>
 </i></p>
 <p align="center"><i>Do you want to read the article in full?? Please visit our <a href="https://amazonialeaks.medium.com/resilient-osint-environment-system-for-resisting-powerful-adversaries-0294a54eed7a" target="_blank">Article</a></i></p>
 <br>
-
+ 
 Welcome to our repository dedicated to enhancing the security of your journalistic investigations and open-source intelligence (OSINT) sources. In a scenario where powerful adversaries are constantly undermining our investigations, the implementation of appropriate security measures becomes crucial. Many investigators overlook the dangers associated with the use of vulnerable machines (computers/notebooks), exposing themselves to significant risks.
 
 When investigating opponents with extensive resources, vast knowledge, and unlimited time, the vulnerability of your machine is an imminent threat. Invasion can result in devastating losses, from the destruction or alteration of your research to obtaining confidential data from sources, putting lives at risk. Additionally, your work and reputation can be destroyed in an instant.
