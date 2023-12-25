@@ -16,36 +16,41 @@ Unfortunately not. Commercial systems like Windows and Apple focus on profit in 
 # What other protections does Kicksecure cover?
 
 
-## Question: Does the system provide protection against targeted malicious updates, specifically using the Tor network for update servers?
+## Question: Does the system protect against malicious updates?
 
-Answer: Yes, keeping software up-to-date is essential for ensuring online security. However, it is crucial to be vigilant against malicious updates that may target your system. Kicksecure understands the importance of user privacy, and as such, its update servers utilize the Tor network. This means that the servers have no knowledge of the user's identity or IP address, adding an extra layer of anonymity and ensuring secure download of updates.. Learn more [here](link_here).
+Answer: Yes, keeping software up-to-date is essential for ensuring online security. However, it is crucial to be vigilant against malicious updates that may target your system. Kicksecure understands the importance of user privacy, and as such, its update servers utilize the Tor network. This means that the servers have no knowledge of the user's identity or IP address, adding an extra layer of anonymity and ensuring secure download of updates. <a href="https://www.kicksecure.com/wiki/About#torified_updates" target="_blank">Learn more here</a>
        
 ## Question: Are Kernel Self Protection Settings (KSPP) implemented to enhance security in the system?
 
-Answer: Yes, Kicksecure utilizes robust Kernel Hardening Settings as recommended by the Kernel Self Protection Project (KSPP).[here](link_here).
+Answer: Yes, Kicksecure utilizes robust Kernel Hardening Settings as recommended by the Kernel Self Protection Project (KSPP). <a href="https://github.com/KSPP/linux" target="_blank">Learn more here</a>
        
-## Question: How does Kicksecure protect against temporal attacks, especially when dealing with powerful adversaries like autocratic governments?
-Answer: Yes, temporal attacks are a serious concern when investigating powerful adversaries, such as autocratic governments. To mitigate these targeted temporal attacks, Kicksecure implements robust measures, including Boot Clock Randomization and secure network time synchronization through sdwdate (Secure Distributed Web Date). These initiatives are crucial to mitigating temporal threats, ensuring user integrity, and security.
+## Question: Does the system protect against timing attacks?
+
+Answer: Yes, temporal attacks are a serious concern when investigating powerful adversaries, such as autocratic governments. To mitigate these targeted temporal attacks, Kicksecure implements robust measures, including Boot Clock Randomization and secure network time synchronization through sdwdate (Secure Distributed Web Date). These initiatives are crucial to mitigating temporal threats, ensuring user integrity, and security. 
        
 Boot Clock Randomization plays an essential role in preventing attackers from predicting boot patterns, making temporal attacks more challenging and less predictable. Additionally, secure network time synchronization through sdwdate is fundamental to ensuring devices are consistently updated, strengthening protection against targeted malicious temporal manipulations.
        
-Given the complexity and diversity of temporal threats, it is imperative that users understand these technologies and their importance in defense against such attacks. Learn more about these measures and how they contribute to reinforcing Kicksecure's security by clicking on the provided links [here](link_here), [here](link_here), and [here](link_here).
+Given the complexity and diversity of temporal threats, it is imperative that users understand these technologies and their importance in defense against such attacks. Learn more about these measures and how they contribute to reinforcing Kicksecure's security by <a href="https://www.kicksecure.com/wiki/Time_Attacks" target="_blank">Learn more here</a>, <a href="https://www.kicksecure.com/wiki/Boot_Clock_Randomization" target="_blank">here</a> and <a href="https://www.kicksecure.com/wiki/sdwdate" target="_blank">here.</a>
        
 A deep understanding is essential to ensure the continuous effectiveness of these safeguards against potential temporal vulnerabilities.
 
-## Does Kicksecure have closed ports by default, contributing to minimized exposure to potential threats?:
-Yes, Systems like Windows may keep ports open by default. Kicksecure operates completely contrary to this, offering a significantly reduced attack surface compared to even some other Linux distributions. Unlike those distributions, Kicksecure does not have open ports by default, decreasing exposure to potential threats. This approach contributes to the system's robust security by minimizing entry points for possible attacks. To better understand how this specific configuration protects against common vulnerabilities, access [here](link_here) and deepen your knowledge about the importance of a default defensive posture on the HOST system.
+## Does the system have open ports by default?:
+
+No, Systems like Windows may keep ports open by default. Kicksecure operates completely contrary to this, offering a significantly reduced attack surface compared to even some other Linux distributions. Unlike those distributions, Kicksecure does not have open ports by default, decreasing exposure to potential threats. This approach contributes to the system's robust security by minimizing entry points for possible attacks. To better understand how this specific configuration protects against common vulnerabilities, access [here](link_here) and deepen your knowledge about the importance of a default defensive posture on the HOST system.
        
-## How does Kicksecure defend against CPU information leakage, such as TCP ISN, and what is the role of the tirdad solution?
+## How does the system handle CPU Information Leak Protection (TCP ISN)?
+
 Safeguarding against CPU information leaks, such as TCP ISN (TCP Initial Sequence Number), is crucial to prevent the exposure of sensitive data about CPU activity through outbound traffic. Randomizing TCP ISN is an essential measure to prevent critical information from being leaked, making the system vulnerable to side-channel attacks. The tirdad, a solution implemented in Kicksecure, plays a vital role in preventing these leaks, ensuring the integrity of CPU information is preserved. Learn more about how tirdad strengthens protection against CPU information leaks by clicking [here](link_here).
        
-## What measures does Kicksecure take to defend against brute force attacks, and how does pam tally2 contribute to this defense?
+## How does the system handle Brute Force attacks?
+
 Brute force is undoubtedly a common and devastatingly used attack. Kicksecure understands this issue as a priority and has developed a solution that protects Linux user accounts through the use of pam tally2. This proactive defense against brute force attacks significantly contributes to account security, preventing repetitive and malicious attempts of unauthorized access. The pam tally2 monitors and records login attempts, automatically blocking accounts after a predefined number of failures, thus strengthening the system's resistance against this type of attack. To better understand how this effective security measure is implemented, click [here](link_here) and deepen your knowledge about defense against brute force attacks in Kicksecure.
 
-## How does system enhance entropy for computer security and the unpredictability of cryptographic keys?
+## Does the system concern itself with Entropy Enhancements?
+
 Enhancing entropy is essential for computer security, ensuring the unpredictability and randomness of cryptographic keys and other security-related processes. Kicksecure strengthens encryption security through pre-installed random number generators, ensuring robust entropy. This measure enhances system security, making it more challenging for adversaries to predict or compromise critical elements, such as encryption keys. To better understand how these entropy enhancements contribute to enhanced security, click [here](link_here) and deepen your knowledge about the importance of solid entropy in protecting security processes in Kicksecure.
        
-## What is the purpose of the Live Mode feature in Kicksecure, ensuring a secure and temporary user experience?
+## What is the purpose of the Live Mode feature in Kicksecure?
 Kicksecure features a valuable resource known as Live Mode, providing a secure experience where all data is removed after the session. This functionality allows users to use the system temporarily and fleetingly, leaving no traces of activity or personal information on the device. Upon ending the session in Live Mode, the system returns to an initial state, ensuring privacy and data security. This is particularly wonderful because once you have all the tools installed and configured, you no longer need to use persistent mode, except when important security updates arise. To better understand how Live Mode contributes to a secure and temporary user experience, explore more details [here](link_here) and [here](link_here).
        
 ## Why is Kicksecure based on Linux, and how does this contribute to its reliability and security?
