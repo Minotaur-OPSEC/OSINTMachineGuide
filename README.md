@@ -15,7 +15,7 @@ Protect the integrity of your research and the security of your sources at no co
 
 <Strong> If you like this Repo, Please click the </strong>:star:
 
-
+ 
 ## Help me build our non-profit investigative journalism association by accessing the link below and (buy me a coffee). 
 
 Link : https://www.buymeacoffee.com/amazonialeaks
