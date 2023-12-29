@@ -134,8 +134,6 @@ Update your package lists:
 
     sudo apt-get update
 
-    Install tb-updater:
-
     sudo apt-get install tb-updater
 
 ![confirme-down-tb-updater](https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/blob/main/Images/install%20tb-updater-y.png)
