@@ -253,7 +253,7 @@ Installing Packages:
    Browse the list of packages until you find the desired software.
    Mark the package for installation by right-clicking or checking the box to the left of the name.
    Click ‘Apply’ to start the installation process.
-   <strong>Install the following applications: Zulucrypt, Bleachbit, Kleopatra and OnionShare.</strong>
+   <strong>Install the following applications: Zulucrypt, Bleachbit, Kleopatra and OnionShare, KeePassXC.</strong>
 
 <h2 id="procedimentos-morfing1">Installation/Procedure for Morphing (Linux Hardening)</h2>
 
