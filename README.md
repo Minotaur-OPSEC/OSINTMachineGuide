@@ -167,7 +167,7 @@ Ok, Good signature.. Choose YES
 Once the installation is complete, open the Tor browser
 
 * Open the Tor Browser: Launch the Tor Browser on your device.
-*   Access settings: In the upper right corner, click on the icon to open the menu and select “Settings” or “Preferences.”
+* Access settings: In the upper right corner, click on the icon to open the menu and select “Settings” or “Preferences.”
 * Select “Connection”: Within the settings, you will see the available configuration options.
 * Bridge Configuration: Go to the “Select a Built-In Bridge…” button and click on it.
 * Choose obfs4: Within the bridge options, choose “obfs4.”
@@ -183,6 +183,8 @@ To restart Tor, go to the ‘broom’ icon in the upper right corner.
    Test the Connection: After restarting, check if the configuration is working correctly. 
    
    Open the Tor Browser and confirm that you are using the obfs4 bridges to access the Onion network.
+
+**Note**: _You can configure a SOCKS4 proxy by clicking on "Advanced" in the "Configure how Tor Browser connects to the internet" settings, and entering 127.0.0.1:9050. For more information, see the Tor Project website_.
 
 
 <h2 id="instalacao-maquina-virtual">Virtual Machine Installation</h2>
