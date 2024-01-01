@@ -257,6 +257,11 @@ Installing Packages:
    Click ‘Apply’ to start the installation process.
    <strong>Install the following applications: Zulucrypt, Bleachbit, Kleopatra and OnionShare, KeePassXC.</strong>
 
+Now install ClamAV using the following command: 
+
+    sudo apt install clamav-freshclam
+
+
 <h2 id="procedimentos-morfing1">Installation/Procedure for Morphing (Linux Hardening)</h2>
 
 It is necessary to install the “curl” package.
