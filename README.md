@@ -261,6 +261,8 @@ Now install ClamAV using the following command:
 
     sudo apt install clamav-freshclam
 
+To enable ClamAV, type the following command:
+
 
 <h2 id="procedimentos-morfing1">Installation/Procedure for Morphing (Linux Hardening)</h2>
 
