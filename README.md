@@ -116,7 +116,7 @@ Open the terminal and type:
 
 After the update, enter the following command:
 
-Download the APT Signing Key:
+Download the APT Signing Key: (_necessary wget install_)
 
     wget https://www.kicksecure.com/keys/derivative.asc
 
