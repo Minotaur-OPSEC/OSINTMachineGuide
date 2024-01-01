@@ -140,7 +140,7 @@ Update your package lists:
 
 Choose YES
 
-<h2 id="reflexao-necessaria">Seção Importante</h2>
+<h2 id="reflexao-necessaria">Important Section</h2>
 
 ## Configuring the Tor Browser
 
