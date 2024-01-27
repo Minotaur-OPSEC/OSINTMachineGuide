@@ -20,7 +20,7 @@ Protect the integrity of your research and the security of your sources at no co
 
 Link : https://www.buymeacoffee.com/amazonialeaks
  
- 
+
 ## Optional Contents
 OPTIONAL READING (BUT RECOMMENDED):
 <br><br>The 8 items below are not part of the tutorial but are fundamental concepts that need to be understood before proceeding to the tutorial content.
