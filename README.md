@@ -64,7 +64,7 @@ Open a terminal and execute the following command:
     su
 
 Install the sudo and adduser packages:
-
+ 
     apt update
 
   Note: It’s possible the terminal may generate an error and not update; if this happens, follow the next 2 steps below.
