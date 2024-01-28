@@ -18,7 +18,7 @@ Protect the integrity of your research and the security of your sources at no co
  
 ## Help me build our non-profit investigative journalism association by accessing the link below and (buy me a coffee). 
 
-Link : https://www.buymeacoffee.com/amazonialeaks
+Link : https://www.buymeacoffee.com/amazonialeaks 
  
 
 ## Optional Contents
